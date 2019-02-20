@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5fdcd959-c231-4dfa-bcee-44924004d8ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/views/admin/articles/create.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/admin/articles/edit.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/admin/articles/form.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/admin/articles/index.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/admin/layouts/app_admin.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
-    </list>
+    <list default="true" id="5fdcd959-c231-4dfa-bcee-44924004d8ce" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -372,12 +363,12 @@
       <option name="presentableId" value="Default" />
       <updated>1550599116477</updated>
       <workItem from="1550599118422" duration="892000" />
-      <workItem from="1550601853520" duration="12213000" />
+      <workItem from="1550601853520" duration="12467000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13105000" />
+    <option name="totallyTimeSpent" value="13359000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -390,9 +381,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="11" y="54" width="1260" height="685" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49874687" visible="true" weight="0.2536946" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49874687" visible="true" weight="0.2536946" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" sideWeight="0.5012531" side_tool="true" weight="0.24958949" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -407,7 +397,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.500821" side_tool="true" weight="0.32715008" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49917898" visible="true" weight="0.22091062" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49917898" visible="true" weight="0.22091062" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
